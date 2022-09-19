@@ -1,5 +1,5 @@
 <?php
-$link = mysqli_connect('localhost', 'root', '', 'db_hari_raya');
+$link = mysqli_connect('localhost', 'root', '', 'hari_raya');
 
 if ($link === false) {
     # code...
